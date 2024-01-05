@@ -2,4 +2,4 @@
 
 Who am I? I'm not really sure; go explore my code!
 
-(insert bragging contributor statistics i don't have here)
+Much of my work is in private repositories, so nothing much to see here.
