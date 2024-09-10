@@ -42,19 +42,22 @@ _\*I've worked in codebases using these languages but don't usually write new co
 
 Hi there. I'm just another of the many people you might have interacted with today. I live in Tokyo, Japan and currently attend [Christian Academy in Japan](https://caj.ac.jp), a private English-language high school in 東京都. When I'm not studying, you'll find me working on hobby projects including Android, native, and web applications designed to fix a problem. In addition, for hardware projects and as the lead programmer for the VEX Robotics 99484 team, I write embedded code in Rust and MicroPython (and sometimes C++). I spent my elementary school years in the U.S. before moving to Japan in Junior High.
 
+I don't "btw use arch", but as of August 2024, every device I use with a screen larger than 5 or so cm (Chromebook - ChromeOS, Smartphone - Android, Mac Mini box - Ubuntu, Tablet - Android 12, main computer - Linux Mint) runs the Linux kernel. Yay!
+
 # こんにちは！👋
 
-## 僕は一体誰でしょう？
+## この人は一体誰でしょう？
 
-長い文章を書く時間がないから、僕が作ったコードを読んで！特に、[「open-chess-clock」というチェスクロックのファームウェア](https://github.com/zabackary/open-chess-clock)や[「xkcd viewer」というxkcdを読むためのAndroidアプリ](https://github.com/zabackary/xkcdviewer)を見てください。
+長い文章を書く時間がないから、自分で作ったコードを読んでね！特に、[「open-chess-clock」というチェスクロックのファームウェア](https://github.com/zabackary/open-chess-clock)や[「xkcd viewer」というxkcdを読むためのAndroidアプリ](https://github.com/zabackary/xkcdviewer)をご覧ください。
 
-アメリカ生まれ、中学時代に日本に引っ越しました。いまは東京都にある[クリスチャン・アカデミー・イン・ジャパン](https://caj.ac.jp)という英語の私立高等学校に通っています。
+アメリカ生まれ、中学時代に日本に引っ越しました。いまは東京都にある[クリスチャン・アカデミー・イン・ジャパン](https://caj.ac.jp)という英語の私立高等学校（インタナショナルスクール）に通っています。
 いま、暇な時間にいろいろなプログラムを作ったり、学校のロボティクス部でVEX Roboticsの99484チームのプログラマーとしてロボットのファームウェアを作ったりします。今年の春に、自分のチームは日本を代表してVEXの全世界大会に入ってアメリカのテキサス州に行ってきました。
 
 日本語を着々と習っていますので、間違いがありましたら、すみません。
 
 <!--
-## 「クリスチャン」というのは何？
+## 学校の名前の「クリスチャン」というのは何？
 
+「クリスチャン」は「キリスト」の英語の形容詞形です。学校で少しだけ習ったかも知れませんが、キリスト教は。。。
 実はそれについてのゲームを作りました！英語で書いてるんですがどうぞ：[ザ・クリスチャン・ストリー](https://zabackary.github.io/the-christian-story)
 -->
