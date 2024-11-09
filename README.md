@@ -4,6 +4,8 @@
 
 > [日本語は下にありますよ⬇️](#こんにちは)
 
+> GitHub Pro graciously provided through GitHub Education
+
 Who am I? I'm not really sure; go explore my code! Maybe check out the [chess clock firmware I wrote](https://github.com/zabackary/open-chess-clock) or [xkcd viewer](https://github.com/zabackary/xkcdviewer)?
 
 I've successfully written several applications used in production among hundreds of people, including photo booth software and [live scorekeeping data](https://github.com/zabackary/daktronics-singular-ui).
