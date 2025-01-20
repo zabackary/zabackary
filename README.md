@@ -38,12 +38,13 @@ I've successfully written several applications used in production among hundreds
       </ul>
     </td>
     <td width="30%">
+      (basically all over the place!)
       <ul>
-        <li>Web development</li>
+        <li>Web dev with React, Svelte, Lit, and vanilla</li>
         <li>Native applications</li>
         <li>CLIs</li>
         <li>Android アプリ</li>
-        <li>Embedded systems (Arduino, embedded Linux, VEX V5)</li>
+        <li>Embedded (Arduino, embedded Linux, VEX V5)</li>
       </ul>
     </td>
   </tr>
@@ -63,19 +64,18 @@ I don't "btw use arch", but as of August 2024, every device I use with a screen 
 
 長い文章を書く時間がないから、自分で作ったコードを読んでね！特に、[「open-chess-clock」というチェスクロックのファームウェア](https://github.com/zabackary/open-chess-clock)や[「xkcd viewer」というxkcdを読むためのAndroidアプリ](https://github.com/zabackary/xkcdviewer)をご覧ください。
 
+> 今年も、自分の学校のロボティクスチームはアメリカン・スクール・イン・ジャパンとDOHSCHOOLと一緒に日本を代表してVEXの全世界大会に入ります。
+
 アメリカ生まれ、中学時代に日本に引っ越しました。いまは高1で東京都にある[クリスチャン・アカデミー・イン・ジャパン](https://caj.ac.jp)という英語の私立学校（インタナショナルスクール）に通っています。生徒会で仕えます。
 いま、暇な時間にいろいろなプログラムを作ったり、学校のロボティクス部でVEX Roboticsの99484チームのプログラマーとしてロボットのファームウェアを作ったりします。今年の春に、自分のチームは日本を代表してVEXの全世界大会に入ってアメリカのテキサス州に行ってきました。
 
-私はクリスチャンです。
-
-日本語を着々と習っていますので、間違いがありましたら、すみません。
-
-### 学校の名前の「クリスチャン」というのは何？
-
-「クリスチャン」は「キリスト」の英語の形容詞形です。学校で少しだけ習ったかも知れませんが、キリスト教信仰は「イエス・キリスト」を人生の真ん中になることです。その意味は「好きな一人ひとりにも嫌いな人にも愛すること」や「主イエスを慕い求めること」です。私達はクリスチャンとして、イエス様は死を打ち破ったことを信じ、神様を通して永遠の命を与えてくださったことを信じます。その「ゴスペル・良い知らせ」は全世界のためです。
+私はクリスチャンです。「クリスチャン」は「キリスト」の英語の形容詞形です。学校で少しだけ習ったかも知れませんが、キリスト教信仰は「イエス・キリスト」を人生の真ん中になることです。その意味は「好きな一人ひとりにも嫌いな人にも愛すること」や「主イエスを慕い求めること」です。私達はクリスチャンとして、イエス様は死を打ち破ったことを信じ、神様を通して永遠の命を与えてくださったことを信じます。その「ゴスペル・良い知らせ」は全世界のためです。
 
 詳しくは：
 * 高校生の場合：お近くの[ハイビーエー（hi-b.a.）集会](https://www.hi-ba.com/club/)
 * 大学生の場合：[キリスト者学生会 KGK](https://www.kgkjapan.org/)
+* それ以外：教会に行ってみてください！
 * または、私はそれについてのゲームを作りました！英語で書いてるんですがどうぞ：[ザ・クリスチャン・ストリー](https://zabackary.github.io/the-christian-story)
+
+日本語を習っていますので、間違いがありましたら、すみません。
 
