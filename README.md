@@ -68,7 +68,7 @@ Hi there. I'm just another of the many people you might have interacted with tod
 
 I also am part of the VEX V5RC team [99484A](https://www.doxarobotics.com) and represent Japan at the VEX World Championships.
 
-I don't "btw use arch", but as of August 2024, every device I use with a screen larger than 5 or so cm (Chromebook - ChromeOS, Smartphone - Android, Mac Mini box - Ubuntu, Tablet - Android 12, main computer - Linux Mint) runs the Linux kernel. Yay!
+I don't "btw use arch", but as of August 2024, every device I use with a screen larger than 5 or so cm (Chromebook - ChromeOS, Smartphone - Android, Mac Mini box - Ubuntu, Tablet - Android 12, main computer - NixOS) runs the Linux kernel. Yay!
 
 # こんにちは！👋
 
