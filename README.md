@@ -29,7 +29,7 @@ I've successfully written several applications used in production among hundreds
         <li>Java*</li>
         <li>English</li>
       </ul>
-      <i>*I've worked in codebases using these languages but don't usually write new code in them</i>
+      <i>*I've worked in legacy codebases using these languages</i>
     </td>
     <td width="30%">
       <ul>
@@ -43,7 +43,7 @@ I've successfully written several applications used in production among hundreds
         <li>Web dev with React, Svelte, Lit, and vanilla</li>
         <li>Native applications</li>
         <li>CLIs</li>
-        <li>Android アプリ</li>
+        <li>Android apps</li>
         <li>Embedded (Arduino, embedded Linux, VEX V5)</li>
       </ul>
     </td>
@@ -64,9 +64,9 @@ Some of my closed source projects include:
 
 ## About me
 
-Hi there. I'm just another of the many people you might have interacted with today. I live in Tokyo, Japan and currently attend [Christian Academy in Japan](https://caj.ac.jp), a private English-language high school in 東京都. When I'm not studying, you'll find me working on hobby projects including Android, native, and web applications designed to fix a problem. In addition, for hardware projects and as the lead programmer for the VEX Robotics 99484 team, I write embedded code in Rust and MicroPython (and sometimes C++). I spent my elementary school years in the U.S. before moving to Japan in Junior High.
+Hi there. I'm just another of the many people you might have interacted with today. I live in Tokyo, Japan and currently attend [Christian Academy in Japan](https://caj.ac.jp), an international school in 東京都. When I'm not studying, you'll find me working on hobby projects including Android, native, and web applications designed to fix a problem. In addition, for hardware projects and as the lead programmer for the VEX Robotics 99484 team, I write embedded code in Rust and MicroPython (and sometimes C++). I spent my elementary school years in the U.S. before moving to Japan in Junior High.
 
-I also am part of the VEX V5RC team [99484A](https://www.doxarobotics.com) and represent Japan at the VEX World Championships.
+I also am part of the VEX V5RC team [99484A](https://www.doxarobotics.com) and have represented Japan at the VEX V5 World Championships during the 2023-24 and 2024-25 seasons.
 
 I don't "btw use arch", but as of August 2024, every device I use with a screen larger than 5 or so cm (Chromebook - ChromeOS, Smartphone - Android, Mac Mini box - Ubuntu, Tablet - Android 12, main computer - NixOS) runs the Linux kernel. Yay!
 
@@ -79,7 +79,7 @@ I don't "btw use arch", but as of August 2024, every device I use with a screen 
 > 今年も、自分の学校のロボティクスチームはアメリカン・スクール・イン・ジャパンとDOHSCHOOLと一緒に日本を代表してVEXの全世界大会に入ります。
 
 アメリカ生まれ、中学時代に日本に引っ越しました。いまは高1で東京都にある[クリスチャン・アカデミー・イン・ジャパン](https://caj.ac.jp)という英語の私立学校（インタナショナルスクール）に通っています。生徒会で仕えます。
-いま、暇な時間にいろいろなプログラムを作ったり、学校のロボティクス部でVEX Roboticsの99484チームのプログラマーとしてロボットのファームウェアを作ったりします。今年の春に、自分のチームは日本を代表してVEXの全世界大会に入ってアメリカのテキサス州に行ってきました。
+いま、暇な時間にいろいろなプログラムを作ったり、学校のロボティクス部でVEX Roboticsの99484チームのプログラマーとしてロボットのファームウェアを作ったりします。2024年と2025年に、自分のチームは日本を代表してVEXの全世界大会に入ってアメリカのテキサス州に行ってきました。
 
 ## でも、なんでこんなプロジェクトやってるだろう？
 
